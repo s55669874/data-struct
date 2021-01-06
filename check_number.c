@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//29
 int main()
 {
     char str[11];
