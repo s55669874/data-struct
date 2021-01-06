@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//40
 int main() {
     char tmp;
     int num[11];
