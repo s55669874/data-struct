@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//12
 int recursive(int a)
 {
     if(a == 0 || a == 1)
