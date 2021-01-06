@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//23
 int main()
 {
     int money, a1, a2, a3;
