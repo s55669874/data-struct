@@ -1,4 +1,5 @@
 #include<stdio.h>
+//6
 int main()
 {
     int season;
