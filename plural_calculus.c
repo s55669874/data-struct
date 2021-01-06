@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//7
 int main(){
     int num;
     int a,b,c,d;
