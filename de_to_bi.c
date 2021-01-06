@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//5
 int main()
 {
     int answer[8], compare_to_scanf = 1;
