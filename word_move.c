@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//32
 int main()
 {
     int change;
