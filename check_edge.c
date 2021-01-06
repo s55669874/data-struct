@@ -1,4 +1,5 @@
 #include<stdio.h>
+//[C_AR04-易] 邊緣偵測
 int main()
 {
     int num;
