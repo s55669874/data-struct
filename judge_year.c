@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//36
 int main()
 {
     int year;
