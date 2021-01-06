@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//10
 
 int main()
 {
