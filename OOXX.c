@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//22
 int main()
 {
     int map[3][3];
