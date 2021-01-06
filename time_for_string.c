@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+//15
 int main()
 {//65 ~90 97~122
     char string[100];
