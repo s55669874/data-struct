@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
+//14
 int main()
 {
     string num;
