@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
+//1
 int main()
 {
     string answer[10][5];
@@ -72,11 +73,11 @@ int main()
         {
             for (int j = 0; j < s.length(); j++)
             {
-                if (j > 0) // ²Ä¤@®æ¤£¥Î¦LªÅ¥Õ
+                if (j > 0) // ç¬¬ä¸€æ ¼ä¸ç”¨å°ç©ºç™½
                     cout << " ";
                 cout << answer[s[j] - '0'][i];
 
-                if(j == s.length() - 1) //³Ì«á­n´«¦æ
+                if(j == s.length() - 1) //æœ€å¾Œè¦æ›è¡Œ
                     cout << endl;
             }
         }
