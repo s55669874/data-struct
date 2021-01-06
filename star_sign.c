@@ -1,6 +1,7 @@
 #include<stdio.h>
-
-int main(){
+//30
+int main()
+{
     int month = 0, day = 0;
     scanf("%d %d", &month, &day);
     switch (month)
