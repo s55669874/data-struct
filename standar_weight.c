@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//34
 int main()
 {
     double weight;
