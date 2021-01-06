@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//24
 int main()
 {
     long double sum = 0.0, r;
