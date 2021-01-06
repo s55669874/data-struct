@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//39
 int main()
 {
     int n , a[4];
