@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+//3
 double distance(int a, int b)
 {
     double new_a = a * 1.0, new_b = b * 1.0;
