@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+//16
 int main()
 {
     char sub_string[128], str[512];
