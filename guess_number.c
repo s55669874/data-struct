@@ -1,4 +1,5 @@
 #include<stdio.h>
+//27
 int main()
 {
     char str[5], cmp_str[5];
