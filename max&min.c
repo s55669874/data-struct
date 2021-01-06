@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//21
 int cmp(const void *a, const void *b)
 {
     if (*(double *)a - *(double *)b > 0)
