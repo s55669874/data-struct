@@ -1,4 +1,5 @@
 #include <stdio.h>
+//25
 int main()
 {
     int num;
